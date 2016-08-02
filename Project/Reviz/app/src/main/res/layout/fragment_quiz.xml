@@ -1,0 +1,134 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Longueur du test"
+        android:id="@+id/txttest"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout">
+
+        <ImageButton
+            android:id="@+id/btnexpress"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="35dp"
+            android:layout_marginLeft="55dp"
+            android:background="@drawable/ic_alarm_black_24dp"
+            android:backgroundTint="@android:color/black"
+            android:onClick="faireQuiz" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Test express"
+        android:id="@+id/txttestexpress"
+        android:layout_marginTop="110dp"
+        android:layout_marginLeft="35dp"
+        android:layout_alignTop="@+id/txtthematiques"
+        android:layout_alignParentStart="true" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/btntrapide"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="35dp"
+            android:layout_marginRight="55dp"
+            android:background="@drawable/ic_alarm_black_24dp"
+            android:backgroundTint="@android:color/black" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Test rapide"
+        android:id="@+id/txtrapide"
+        android:layout_below="@+id/linearLayout"
+        android:layout_marginRight="35dp"
+        android:layout_alignEnd="@+id/linearLayout" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/btnstandard"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="195dp"
+            android:layout_marginRight="55dp"
+            android:background="@drawable/ic_alarm_black_24dp"
+            android:backgroundTint="@android:color/black" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Test standard"
+        android:id="@+id/txtstandard2"
+        android:layout_below="@+id/linearLayout"
+        android:layout_marginTop="165dp"
+        android:layout_marginLeft="25dp"
+        android:layout_alignEnd="@+id/linearLayout"
+        android:layout_alignParentStart="true" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/btrevision"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="195dp"
+            android:layout_marginLeft="55dp"
+            android:background="@drawable/ic_alarm_black_24dp"
+            android:backgroundTint="@android:color/black" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Alert examen"
+        android:id="@+id/txtalarme"
+        android:layout_below="@+id/linearLayout"
+        android:layout_marginTop="165dp"
+        android:layout_marginRight="25dp"
+        android:layout_alignEnd="@+id/linearLayout" />
+
+
+</RelativeLayout>
