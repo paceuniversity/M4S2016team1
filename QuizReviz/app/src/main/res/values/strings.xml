@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuizReviz</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_next">str_next</string>
+    <string name="title_activity_quiz_summary">QuizSummaryActivity</string>
+</resources>
