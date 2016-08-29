@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="androidcourse.dev.reviz20" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".Config"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Thematiques"
+            android:label="@string/title_activity_thematiques"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Identification"
+            android:label="@string/title_activity_identification"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Connexion"
+            android:label="@string/title_activity_connexion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NouveauCompte"
+            android:label="@string/title_activity_nouveau_compte"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PoserQuestion"
+            android:label="@string/title_activity_poser_question"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Quiz_menu"
+            android:label="@string/title_activity_quiz_menu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FrancaisMenu"
+            android:label="@string/title_activity_francais_menu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FrancaisOral"
+            android:label="@string/title_activity_francais_oral"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FrancaisEcrit"
+            android:label="@string/title_activity_francais_ecrit"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Mathematiques"
+            android:label="@string/title_activity_mathematiques"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Histoire"
+            android:label="@string/title_activity_histoire"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Apropos"
+            android:label="@string/title_activity_apropos"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+    </application>
+
+</manifest>

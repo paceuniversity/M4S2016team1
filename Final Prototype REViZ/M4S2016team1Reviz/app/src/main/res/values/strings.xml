@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">REViZ 2.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_thematiques">Thematiques</string>
+    <string name="title_activity_identification">Identification</string>
+    <string name="title_activity_connexion">Connexion</string>
+    <string name="title_activity_nouveau_compte">Nouveau Compte</string>
+    <string name="title_activity_poser_question">Poser une question</string>
+    <string name="title_activity_quiz_menu">Quiz_menu</string>
+    <string name="title_activity_francais_menu">FrancaisMenu</string>
+    <string name="title_activity_francais_oral">Francais Oral</string>
+
+    <string name="francais_oral">
+Répondez à la question posée. Comme dans le commentaire, il faut repérer les principaux enjeux du texte, les caractéristiques propres à son genre et ce qui fait sa
+spécificité. Vous devez vous demander :
+\n- Quel est le sujet du texte (De quoi parle-t-il ?)
+\n- Quelle est sa forme, son genre (Comment il en parle ?)
+\n- Quelle est sa fonction, sa visée ? (Pourquoi ?)
+
+\nOrganisez vos idées. Bâtissez ensuite un plan équilibré en deux ou trois parties, répondant à la question posée. Parfois, la problématique n\'est pas formulée de
+manière explicite et il faut l\'extraire de l\'intitulé de la question. Attention à ne pas être trop général ! Veillez à privilégier un plan analytique du texte
+plutôt qu\'un plan chronologique. En suivant l\'extrait ligne à ligne, vous risquez la paraphrase !
+
+\nMis à part l\'introduction et la conclusion, ne perdez pas de temps à tout rédiger au brouillon. L\'introduction doit présenter et situer le sujet (éclairage sur
+le contexte historique, l\'œuvre, l\'auteur...), indiquer le genre et la structure du texte, relever les thèmes essentiels, présenter les personnages, annoncer la
+problématique ainsi que le plan de votre présentation.
+Contentez-vous pour le développement d\'un plan détaillé, assorti d\'exemples précis tirés de l\'extrait, citations à l\'appui.
+
+\nUne lecture vivante et intelligente. Même si l\'examinateur ne vous le demande pas, vous pouvez proposer de lire à haute voix un extrait du texte. C\'est un moyen
+efficace de se détendre avant d\'aborder l\'introduction et d\'établir un contact humain avec son interlocuteur, en montrant par une lecture intelligente qu\'on a
+compris le texte. Lisez lentement, distinctement en respectant la ponctuation, marquez les liaisons et respectez les règles de versification s\'il s\'agit d\'un poème
+(en particulier les diérèses et les « e » mutes). À moins d\'être un comédien aguerri, ne cherchez pas cependant à tout prix à « mettre le ton ». Soyez dynamique et
+expressif sans être grandiloquent. Une lecture posée vaut mieux qu\'une prestation théâtrale maladroite.
+
+\nUne présentation organisée mais spontanée. Plus encore qu\'à l\'écrit, vous devrez faire preuve de clarté et de précision pour permettre à l\'examinateur, qui ne
+connaît pas forcément bien le texte, de suivre le cheminement de votre pensée. Si l\'introduction qui pose la réflexion doit être lue, le reste de l\'exposé doit être
+spontané. Vous avez le droit de regarder vos notes, mais surtout pas de réciter. Quand vous citez le texte, indiquer la ligne et lisez l\'extrait, pas tout un
+paragraphe. Enfin, essayez de respecter les 10 minutes imparties et n\'oubliez pas de conclure en récapitulant les différents points abordés au cours de la
+présentation et en élargissant à un autre aspect de l\'ouvrage ou de l\'œuvre de l\'auteur.
+</string>
+     <string name="francais_ecrit">
+Appréhendez le sujet.
+\nL\'épreuve s\'appuie sur un corpus de documents et se compose d\'une ou deux parties :
+\n- Des questions préalables (1 ou 2 en général et jusqu\'à 4) peuvent vous être proposées. Elles vérifient votre compréhension du corpus de textes, vous invitent à
+faire des liens entre les différents documents et à proposer des interprétations. Elles sont notées sur 4 points. Ne les négligez pas car elles vous aideront ensuite
+à rédiger votre travail d\'écriture. Prenez le temps de construire des réponses argumentées, sans pour autant vous égarer.
+\n- Un travail d\'écriture portant sur la totalité ou une partie des textes étudiés : un commentaire, une dissertation ou un travail d\'invention, noté minimum sur
+16 points s\'il comporte au préalable des questions et au maximum sur 20.
+
+\nSoignez votre écrit et votre écriture. Si l\'épreuve de français permet d\'évaluer vos connaissances littéraires, elle vise également à apprécier votre maîtrise de
+l\'écrit. Parce qu\'un style vivant et clair retiendra davantage l\'attention du correcteur, préférez les phrases courtes et simples aux constructions trop alambiquées
+et aux phrases à rallonge. Soyez attentifs à l\'orthographe et au choix du vocabulaire. Préférez des termes précis aux tournures fourre-tout du type « faire ». Enfin
+évitez les répétitions, notamment concernant les verbes : un narrateur peut « dire », mais aussi « suggérer », « souligner », « montrer », «évoquer», « énoncer ».
+Soignez la présentation de votre copie : écrivez lisiblement, n\'hésitez pas à sauter des lignes et n\'oubliez pas de revenir à la ligne à la fin de chaque sous-partie.
+En un mot, aérez !
+
+\nFaites le bon choix. Le choix du sujet est le moment crucial et sans doute le plus délicat de l\'épreuve. Alors, prenez votre temps ! Dix minutes ne seront pas de
+trop pour lire attentivement les trois sujets et noter sur une feuille les connaissances que vous pourrez mobiliser pour chacun d\'eux. Vous éviterez ainsi l\'envie de
+changer en cours de route. Toutefois, si vous n\'êtes pas sûr de vous, jouez la sécurité : si vous avez toujours été plus à l\'aise dans le commentaire de texte, ne
+vous tournez pas vers la dissertation et assurez un maximum de points.
+
+\nDisséquez le sujet. Une fois votre choix fait, tenez-vous-y ! Lisez attentivement le sujet et analysez-le. Soulignez les termes importants en accordant une attention
+ particulière aux verbes modaux (devoir, pouvoir, etc.) qui vous donnent des indications sur ce que l\'on attend de vous, aux formes interrogatives, …
+
+\nOrganisez votre temps. Pour éviter de bâcler votre devoir, pensez à consacrer une heure environ au choix du sujet et aux questions préalables, une heure à la
+construction de votre plan, une heure quarante-cinq à la rédaction de votre devoir sans oublier de garder les quinze minutes indispensables à la relecture attentive
+de votre copie.
+
+\nRédigez. Ne vous précipitez pas pour rédiger. Au brouillon, développez au maximum sous forme de notes les grandes étapes de votre plan : grandes parties,
+sous-parties, sous-sous parties, illustrées d\'un exemple. Puis attelez-vous à la rédaction de l\'introduction (une quinzaine de lignes environ) et de la conclusion
+(cinq lignes peuvent suffire). Avoir préparé votre conclusion à l\'avance vous permettra de « dégainer » rapidement si vous êtes pris par le temps, tout en vous
+assurant de répondre à la problématique que vous vous serez fixée. Mieux vaut une troisième partie escamotée qu\'un devoir sans conclusion.
+Il ne vous restera plus ensuite qu\'à dérouler le fil, en veillant aux connecteurs logiques pour fluidifier le raisonnement (« d\'abord », « ensuite », « cependant »,
+« toutefois », « néanmoins », etc.)
+
+\nL\'introduction. \nCommencez selon la formule de l\'entonnoir par une phrase d\'accroche générale qui vous amènera au sujet. En schématisant, cela donne par
+exemple : mouvement littéraire/auteur/œuvre. Puis posez la problématique sous forme de question, si possible interrogative (En quoi peut-on dire que ? Dans quelle
+mesure peut-on s\'intéresser à… ?), et annoncez le plan (deux ou trois parties de préférence).
+
+\nLa conclusion \nse compose des deux ou trois grandes étapes développées et éventuellement d\'une ouverture sur le même thème ou sur l\'auteur.
+</string>
+    <string name="maths">
+Comprendre le sujet :
+
+\nLisez bien l\'énoncé dans son ensemble, afin d\'évaluer les difficultés des différents exercices proposés. Quitte à souligner le mot important.
+
+\nEvaluer son temps :
+\nDéterminez pour chaque exercice le temps que vous souhaitez y passer et tenez-vous y. Si vous devez traiter deux exercices et un problème, la moitié de la durée
+de l\'épreuve doit être consacrée au problème et un quart à chaque exercice.
+
+\nSavoir où on va :
+\nAvant de commencer, faites une deuxième lecture de l\'énoncé pour savoir où vous allez. En particulier pour le problème, lisez le préambule plusieurs fois afin
+de le mémoriser. Lorsque vous traitez une question, aidez-vous de l\'énoncé des questions suivantes, où se trouve parfois le résultat auquel vous devez arriver.
+
+\nFaire preuve d\'astuce
+\nCommencez par l\'exercice qui vous paraît le plus facile pour vous assurer un minimum de points.
+Travaillez au brouillon avec d\'un côté une feuille où vous détaillerez les résultats, de l\'autre, une feuille pour les chercher.
+Sécher sur un exercice, ça peut arriver ! Ne vous acharnez pas si c\'est le trou noir. Vous y reviendrez plus tard.
+Fignolez
+\nLes calculs d\'aires, les milliers d\'euros... Soyez vigilants à l\'unité de départ ( dans l\'énoncé) et à celle d\'arrivée à trouver.
+La justesse de votre raisonnement, les résultats à la calculatrice, la cohérence des réponses, avant de les recopier au propre sur votre copie.
+Ne négligez pas la rédaction. Certes, vous êtes en maths mais il faut vraiment soigner la forme. Vous perdrez des points si vous n\'illustrez pas les solutions ou si vous oubliez de noter la formule utilisée.
+Retouchez votre copie, une fois votre travail terminé. Assurez-vous d\'avoir indiqué les numéros de chaque exercice et des pages, d\'avoir mentionné les unités, ...
+
+</string>
+    <string name="histoire">
+\nComment bien se préparer
+\nLes nouveaux programmes de 1re, plus qu\'avant encore, vous obligent à problématiser votre réflexion en établissant des liens entre les périodes... tout en évitant le piège de la récitation et l\'exhaustivité. Toutefois, être capable de répondre aux sujets appelle une excellente maîtrise des connaissances.
+
+\nFaites des fiches. Fichez le programme de l\'année par chapitre, en laissant apparaître clairement le plan adopté. Surtout, évitez les impasses, quitte à approfondir un peu moins si le temps presse. En histoire, vous pouvez réaliser une frise chronologique avec les grandes questions au programme et leur « mise en œuvre ».
+
+\nApprenez par cœur les schémas. En géographie, le nombre de schémas susceptibles de « tomber » le jour « J » est finalement assez restreint. Alors, pour mettre toutes les chances de votre côté apprenez-les par cœur, avec une mention spéciale pour le schéma obligatoire, « Roissy, plate-forme multimodale et hub mondial » qu\'il faut savoir absolument. Même si le jour du bac le sujet n\'est pas exactement celui traité en cours vous aurez les principaux éléments en tête.
+
+\nRelisez les croquis. Si vous manquez de temps, et que vous avez une bonne mémoire visuelle, en géographie, vous pouvez vous contenter de relire les croquis qui offrent souvent un bon résumé.
+
+\nIl faut aussi vous entraîner aux différents types d\'exercices. Pour un maximum d\'efficacité le jour du bac, vous devez connaître par cœur la « boîte à outils » de la composition, du commentaire et des exercices de cartographie.
+
+</string>
+    <string name="title_activity_francais_ecrit">FrancaisEcrit</string>
+    <string name="title_activity_mathematiques">Mathematiques</string>
+    <string name="title_activity_histoire">Histoire</string>
+    <string name="title_activity_apropos">Apropos</string>
+    <string name="apropos">Android Course Mobile(4)Senegal 2016
+\nM4S2016team1
+\nEl Hadji Lamine BIAYE | \nhttp://github.com/infoapplis
+\nBandiaré Léonie NDOYE | \nhttp://github.com/leoniend
+\nNellya ZOHOUN | \nhttp://github.com/nellyamaylis
+\nhttps://github.com/paceuniversity/M4S2016team1
+
+\nMerci à Mobile(4)Senegal de nous avoir initié au développement d\'application Android.
+\nBonne continuation</string>
+</resources>

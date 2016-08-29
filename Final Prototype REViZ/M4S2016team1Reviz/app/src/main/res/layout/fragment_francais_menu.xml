@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="androidcourse.dev.reviz20.FrancaisMenuFragment"
+    tools:showIn="@layout/activity_francais_menu">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Révisons le Français"
+        android:id="@+id/txtinfo"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Souhaitez-vous commencé par l&apos;orale ou bien par l&apos;écrit ?"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/txtinfo"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="45dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Je commence par l&apos;oral"
+        android:id="@+id/btnoral"
+        android:layout_below="@+id/textView3"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="53dp"
+        android:layout_alignParentEnd="true"
+        android:background="#03A9F4"
+        android:onClick="Oral"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Je commence par l&apos;écrit"
+        android:id="@+id/btnecrit"
+        android:background="#B3E5FC"
+        android:onClick="Ecrit"
+        android:layout_below="@+id/btnoral"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="49dp"
+        android:layout_alignEnd="@+id/btnoral" />
+</RelativeLayout>
