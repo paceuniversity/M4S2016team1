@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "572051383502",
+    "firebase_url": "https://reviz-b5387.firebaseio.com",
+    "project_id": "reviz-b5387",
+    "storage_bucket": "reviz-b5387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572051383502:android:94c8e6b62c078f38",
+        "android_client_info": {
+          "package_name": "androidcourse.dev.reviz20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572051383502-emir60a51mkkddu6k8hlictssekk1dgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrUeUjbt9k9lk--TQjEoVKX34pwerpcwo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
